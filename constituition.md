@@ -60,7 +60,7 @@
 - viii. In order for the Hellenic League to declare war, the assembly must pass a vote to war.
 # 3. Institutions
 ## a. Assembly
-- i. The assembly is a body consisting of all members of the clan, this institution elects senators and archons. Votes are also conducted in the assembly, a vote conducted in the assembly can only be overruled by a later vote by the assembly.
+- i. The assembly is a body consisting of all members of the clan, this institution elects senators and secretaries. Votes are also conducted in the assembly, a vote conducted in the assembly can only be overruled by a later vote by the assembly.
 - ii. All powers are the exclusive reserve of the assembly unless otherwise delegated; the assembly can never remove its right to exercise any powers, it may only grant permission for others to exercise them on its behalf.
 ## b. Senate
 - i. The senate is a body consisting of all senators and secretaries of state, this institution can conduct votes which can overrule decrees but be overruled by the assembly. The senate will also be available to advise individuals and institutions both above and below it on any matters they feel qualified to do so. The senate will also be available to produce reports on any topic for which they are qualified.
