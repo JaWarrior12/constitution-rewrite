@@ -80,6 +80,7 @@
 - v. Distribution activities which produce profit must be logged.
 - vi. Designers will get a total 5% share of all profits made by distribution selling their designs.
 - vii. In the event that distribution’s total balance of an item exceeds its stock, the system will automatically sell a proportionate amount from all balances to bring it to a reasonable level for distribution operations.
+- viii. If an order has been claimed for more than 48hrs without it being completed the order shall be automatically unclaimed and an amount equal to 20% of the order's profit will be deducted from the claimer's balance and added to the extra-pay value for the order. In order to prevent abuse of this system any claimer must hold at least 20% the profit  value of the order they wish to claim in their balance before being able to claim.
 ## b. Distribution Fleet
 - i. Members of the military can be given access to ships on a case by case basis.
 - ii. The commander who uses or orders use of a ship is responsible for updating the spreadsheet.
