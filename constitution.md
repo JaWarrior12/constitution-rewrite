@@ -15,7 +15,7 @@
 - ii. The magisterial court's jury is formed by the magistrates.
 - iii. The senatorial court’s jury is formed by the senate.
 - iv. The high court’s jury is formed by the assembly.
-- v. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court that will judge the specific case. If no court exists which has a sufficient number of judges (defined as one for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with stake can be part of it.
+- v. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court that will judge the specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with stake can be part of it.
 ## c. Trial Process
 - i. The first step - to start a trial - is a person get an accusation or a request and deliver it to a senator, magistrate or their ministers; A trial can be cancelled by the accusation/request side, unless it already happened.
 - ii. The second step is the accusation or request be accepted by any senator, magistrate or their ministers as being part of constituition.
