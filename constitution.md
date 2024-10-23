@@ -79,10 +79,10 @@
 - i. The constitution is a document that records the current status of all rules in the clan. No one individual document is the “true” constitution, as such anyone can make their own copy and it would hold as much legal force as any other copy should it display with 100% accuracy the will of the assembly and those whom it has delegated power to.
 - ii. Any modifications to the document must be recorded in a publicly accessible way to enable all copies to retain full accuracy.
 - iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes.
-## c. Discord Server
+## d. Discord Server
 - i. The discord server of the Hellenic League is part of the clan, and as such all actions associated with the discord server are bound by the constitution.
 - ii. The role of "Administrator" is legally bound by the constitution, and is the responsibility of the Archons and their ministers. 
-## d. External Organizations
+## e. External Organizations
 - i. Any organization acting on behalf of, or in combination with the Hellenic League must have its existence (Not necessarily its activites) revealed to the Assembly.
 - ii. External Organizations are prohibited from holding any power over HL, all actions concerning HL and Hellene members must go through the senate. 
 # 4. Distribution
