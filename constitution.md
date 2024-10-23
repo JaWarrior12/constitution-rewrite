@@ -11,6 +11,7 @@
 - ix. Purposely and illegally restricting the constitutional rights of any HL member.
 - x. Breaching any applicable agreement or law within the Hellenic League.
 - xi. Usage of slurs and making racist remarks.
+- xii. Intentionally delaying legal proceedings
 ## b. Courts
 - i. Offenses may only be tried if one of the parties involved in the offense was at the time or presently is a member of the Hellenic League. Does not apply to helping proscribed people.
 - ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges clarify constitutional questions.
@@ -29,7 +30,7 @@
 - v. In the fifth step, after time passes, or the contract is successful, both sides on trial will have 3 days to present proof, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
 - vi. Then in the sixth step, the jury will decide if, and how the issue should be fixed, following the constitution.
 - vii. In the event of a hung jury (Jury cannot reach a majority) the defendant is declared innocent, but the prosecution can appeal to a higher court. If the jury of the High Court is hung, then the defendant is declared innocent and cannot be retried for the same case.
-- viii. All cases have a time limit, if not resolved in that time the defendent is declared innocent. Time limits are as follows:  Magesterial court - 10 Days; Senatorial Court - 15 Days; High Court - 20 Days. Cases that have exceeded their time limit cannot be appealed.
+- viii. All cases have a time limit, if not resolved in that time the defendent is declared innocent. Time limits are as follows:  Magesterial court - 10 Days; Senatorial Court - 15 Days; High Court - 20 Days. If the judge panel decides that the defendent has deliberatly wasted time in order to get an innocent verdict, the case will continue and the defendent will faced an added charge of "Intentionally delaying legal proceedings."
 ## e. Fixing Issues
 - i. For offenses committed, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48 hours to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
 - ii. For other requests, it shall be followed by other parts of the constitution, and it becomes official after 48h or an appeal be accepted.
