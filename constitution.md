@@ -81,6 +81,10 @@
 - iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes.
 ## c. Discord Server
 - i. The discord server of the Hellenic League is part of the clan, and as such all actions associated with the discord server are bound by the constitution.
+- ii. The role of "Administrator" is legally bound by the constitution, and is the responsibility of the Archons and their ministers. 
+## d. External Organizations
+- i. Any organization acting on behalf of, or in combination with the Hellenic League must have its existence (Not necessarily its activites) revealed to the Assembly.
+- ii. External Organizations are prohibited from holding any power over HL, all actions concerning HL and Hellene members must go through the senate. 
 # 4. Distribution
 ## a. Distribution Systems
 - i. Payments are made to people that help and are proportional to the profit produced.
