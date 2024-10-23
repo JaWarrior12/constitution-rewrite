@@ -116,7 +116,7 @@
 - vii. A person must hold a rank above to be considered a member of HL.
 - viii. Any person can resign any rank.
 - ix. Archons are the administrative secretaries. Archons have the job of administering and delivering the results of votes and elections, in their absence, any citizen can do it. Archons are responsible for moderation of the discord server.
-- x. Magistrates are the secretaries of law; if they or a member of a jury are removed from power, they still have power over cases they reside in.
+- x. Magistrates are the secretaries of law; if they or a member of a judge panel are removed from power, they still have power over cases they reside in.
 - xi. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
 ## b. Department of the Exterior Ranks
 - i. Admirals are the secretaries of war and have the supreme power to issue orders in battles, to attack and destroy any ship that’s out if they are negatively interfering with the battle, pose a risk to HL, or are proscribed, as well as to issue orders to friendly ships to go to different coordinates and zones, and to manage Neutral and Ally relations.
