@@ -1,4 +1,4 @@
-8# 1. Rules
+# 1. Rules
 ## a. Offences
 - i. Griefing, scamming, stealing (outside of missions), or FP robbing.
 - ii. Shield managing, driving, or attacking against members, allies or neutrals.
