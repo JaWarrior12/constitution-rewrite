@@ -1,5 +1,5 @@
 # 1. Rules
-## a. Offences
+## a. Offenses
 - i. Griefing, scamming, stealing (outside of missions), or FP robbing.
 - ii. Shield managing, driving, or attacking against members, allies or neutrals.
 - iii. Impersonation of people or clans.
@@ -9,31 +9,34 @@
 - vii. Bribing or blackmailing the assembly or any person/group it has delegated power to.
 - viii. Purposely and maliciously destroying, obstructing, or altering evidence of a crime.
 - ix. Purposely and illegally restricting the constitutional rights of any HL member.
-- x. Breaching any applicable agreement or law.
+- x. Breaching any applicable agreement or law within the Hellenic League.
+- xi. Usage of slurs and making racist remarks.
 ## b. Courts
-- i. Offences may only be tried if one of the parties involved in the offence was at the time or presently is a member of Hellenic League. Does not apply to helping proscribed people.
-- ii. The magisterial court's jury is formed by the magistrates.
-- iii. The senatorial court’s jury is formed by the senate.
-- iv. The high court’s jury is formed by the assembly.
-- v. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court that will judge the specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with stake can be part of it.
-- vi. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
-## c. Trial Process
-- i. The first step - to start a trial - is a person get an accusation or a request and deliver it to a senator, magistrate or their ministers; A trial can be cancelled by the accusation/request side, unless it already happened.
-- ii. The second step is the accusation or request be accepted by any senator, magistrate, or their ministers as being part of the constitution. The party accepting the case must not have a stake (attorney, defense, or prosecution) in the case, unless there is no uninvolved party able to accept the case.
-- iii. The third step is the person that make the accusation/request presenting proofs to the competent court (Start with Magisterial court, if the case exceeds 5k Flux then it goes to Senatorial court; Also should follow 1. b. v.).
-- iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accuseds then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if dont apply, then any senator) should present themselfs *in contrarium* of the requester.
-- v. In the fifth step, after time passes, or the contact was sucessfull, both sides on trial will have 3 days to present proofs, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
-- vi. Then in the sixty step, the jury will decide if, and how the issue should be fixed, following the constituition.
-## d. Fixing Issues
-- i. For offences committed, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims and/or HL Distribution, and/or, the offender do an action that would help to repair/revert the offense. 
-- ii. For other requests, it shall be follow other parts of constitution, and it becomes official after 48h or an appeal be accepted.
-- iii. Proscribed individuals/groups will have their balances frozen and will be under indefinite embargo and kill on sight order.
-- iv. An appeal can be done if at least 3 senators agree; In the case of appeal, the judgment is reset, and should be tried in a higher court. If the first judgement happened on senatorial court, then the second shall be done in the senatorial court again before going to the high court. Cases done in high court will be always re-tried in high court.
-- v. The victim side can drop charges and make the accused side innocent, if done voluntarily.
-- vi. Once convicted the individual will have 48h to solve the issue or for an appeal be accepted, or else they will be proscribed.
-- viii. Offences may be committed against someone if they have committed an offence and you believe they would be convicted for it. If the person believed to be committing the offence is found innocent in a trial, then any people who committed offences against them would be liable for damages caused.
-- ix. A list of all proscribed individuals must be made publicly available. 
-- x. Any offences may be committed against proscribed individuals with total immunity from prosecution.
+- i. Offenses may only be tried if one of the parties involved in the offense was at the time or presently is a member of the Hellenic League. Does not apply to helping proscribed people.
+- ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges clarify constitutional questions.
+- iii. The judge panel of all courts consists of the magistrates.
+- iv. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court's judge panel for that specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with a stake can be part of the judge panel.
+- v. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
+## c. Juries
+- i. All cases in the Magisterial Court will be decided by a six (6) person jury. Each side (prosecution and defense) is allowed to select three (3) jury members. Each side is allowed to veto one (1) of the opposing side's juror choices.
+- ii. For cases in the Senatorial Court, the senate is the jury. For cases in the High Court, the assembly is the jury.
+- iii. Members of the judge panel and those with an active stake (involved in the ticket/case as prosecution/defense/attorney) are prohibited from being a member of the jury for that specific case.
+## d. Trial Process
+- i. The first step - to start a trial - is a person get an accusation or a request and delivers it to a senator, magistrate or their ministers; A trial can be canceled by the accusation/request side, unless it already happened.
+- ii. The second step is the accusation or request be accepted by any senator, magistrate, or attorney as being part of their constitutional duties. The party accepting the case must not have a stake (attorney for either side, defense member, or prosecution member) in the case, unless there is no uninvolved party able to accept the case.
+- iii. The third step is the person that makes the accusation/request presenting proofs to the competent court (Start with Magisterial court, if the case exceeds 5k Flux then it goes to Senatorial court; Also should follow 1. b. v.).
+- iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accused's then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if don't apply, then any senator) should present themselves *in contrarium* of the requester.
+- v. In the fifth step, after time passes, or the contract is successful, both sides on trial will have 3 days to present proof, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
+- vi. Then in the sixth step, the jury will decide if, and how the issue should be fixed, following the constitution.
+- vii. In the event of a hung jury (Jury cannot reach a majority) the defendant is declared innocent, but the prosecution can appeal to a higher court. If the jury of the High Court is hung, then the defendant is declared innocent and cannot be retried for the same case.
+- viii. All cases have a time limit, if not resolved in that time the defendent is declared innocent. Time limits are as follows:  Magesterial court - 10 Days; Senatorial Court - 15 Days; High Court - 20 Days. Cases that have exceeded their time limit cannot be appealed.
+## e. Fixing Issues
+- i. For offenses committed, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48 hours to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
+- ii. For other requests, it shall be followed by other parts of the constitution, and it becomes official after 48h or an appeal be accepted.
+- iii. Proscribed individuals/groups will have their balances frozen and will be under indefinite embargo and kill on sight order. Any offenses may be committed against proscribed individuals with total immunity from prosecution. A list of all proscribed individuals must be made publicly available.
+- iv. Offenses may be committed against someone if they have committed an offense and you believe they would be convicted for it. If the person believed to be committing the offense is found innocent in a trial, then any people who committed offenses against them would be liable for damages caused.
+- v. An appeal can be done if at least 3 senators agree; In the case of appeal, the judgment is reseted, and should be tried in a higher court; If the first judgment happened on senatorial court, then the second need be done in the senatorial court again before go to the high court; Cases done in high court could be always re-tried in high court.
+- vi. Due to Prosctiption being a relations concern, an individual can only be proscribed with the agreement of at least one (1) Admiral.
 # 2. Clan Structure
 ## a. Elections
 - i. Elections are held on the 1st and 15th of every month. Nominations start at 00:00 UTC on the preceding day and voting starts at 00:00 UTC on the day of the elections with results declared at 00:00 UTC the following day.
@@ -79,17 +82,20 @@
 ## c. Constitution
 - i. The constitution is a document that records the current status of all rules in the clan. No one individual document is the “true” constitution, as such anyone can make their own copy and it would hold as much legal force as any other copy should it display with 100% accuracy the will of the assembly and those whom it has delegated power to.
 - ii. Any modifications to the document must be recorded in a publicly accessible way to enable all copies to retain full accuracy.
-- iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes. 
+- iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes.
+## d. Discord Server
+- i. The discord server of the Hellenic League is part of the clan, and as such all actions associated with the discord server are bound by the constitution.
+- ii. The role of "Administrator" is legally bound by the constitution, the duties associated with the "Administrator" role are the responsibility of the Archons and their ministers. 
 # 4. Distribution
 ## a. Distribution Systems
 - i. Payments are made to people that help and are proportional to the profit produced.
 - ii. Every day all the profits will be divided up and paid out as balance adjustments in the materials produced.
 - iii. Balances can be used to buy ships, materials or withdrawn at any reasonable time.
-- iv. People who are proscribed or on trial for a proscribable offence will have their balance frozen. They will not be able to buy, sell, withdraw, and or transfer until this condition is lifted.
+- iv. People who are proscribed or on trial for a proscribable offense will have their balance frozen. They will not be able to buy, sell, withdraw, and or transfer until this condition is lifted.
 - v. Distribution activities which produce profit must be logged.
 - vi. Designers will get a total 5% share of all profits made by distribution selling their designs.
 - vii. In the event that distribution’s total balance of an item exceeds its stock, the system will automatically sell a proportionate amount from all balances to bring it to a reasonable level for distribution operations.
-- viii. If an order has been claimed for more than 48hrs without it being completed the order shall be automatically unclaimed and an amount equal to 20% of the order's profit will be deducted from the claimer's balance and added to the extra-pay value for the order. In order to prevent abuse of this system any claimer must hold at least 20% the profit  value of the order they wish to claim in their balance before being able to claim.
+- viii. If an order has been claimed for more than 48 hours without it being completed the order shall be automatically unclaimed and an amount equal to 20% of the order's profit will be deducted from the claimant's balance and added to the extra-pay value for the order. In order to prevent abuse of this system any claimer must hold at least 20% the profit  value of the order they wish to claim in their balance before being able to claim.
 ## b. Distribution Fleet
 - i. Members of the military can be given access to ships on a case by case basis.
 - ii. The commander who uses or orders use of a ship is responsible for updating the spreadsheet.
@@ -98,19 +104,19 @@
 - v. All loot made by the distribution fleet is the property of distribution.
 - vi. When a ship is decommissioned it will be returned to the donor, refitted, or scrapped.
 - vii. People may lease distribution fleet ships in exchange for freezing an amount of flux from their balance which holds the same value as the ship they intend to lease, they can reclaim this flux in full when the ship is returned in pristine condition, if the ship is not returned in pristine condition the frozen flux will be used to fund repairs/replacement.
-- viii. With the permission of both chancellors, donors can auction their donated ships, with the conditions that: Distribution gets at least 25% of all the revenue and the auction must occur via distribution's auction system with a minimum duration of 48hrs; if the highest bid fails to exceed the raw scrap value of the ship then the sale shall not occur. If the donor is distribution itself, i.e, distribution built the ship at its own expense then the agreement of the senate and both chancellors shall be required to authorise the auction. The auction title must include the full HL name for the design: i.e: "Mk6.2-Kedge", as well as the condition such as (but not limited to) "undamaged and full", "damaged and empty" or "empty shell". Furthermore, the title must also include the id and name of the ship. The auction must also have affixed an image of the ship which is adequate detail and zoom level to clearly see the contents and settings of all boxes, loaders and other machinery.
+- viii. With the permission of both chancellors, donors can auction their donated ships, with the conditions that: Distribution gets at least 25% of all the revenue and the auction must occur via distribution's auction system with a minimum duration of 48hrs; if the highest bid fails to exceed the raw scrap value of the ship then the sale shall not occur. If the donor is distribution itself, i.e, distribution built the ship at its own expense then the agreement of the senate and both chancellors shall be required to authorize the auction. The auction title must include the full HL name for the design: i.e: "Mk6.2-Kedge", as well as the condition such as (but not limited to) "undamaged and full", "damaged and empty" or "empty shell". Furthermore, the title must also include the id and name of the ship. The auction must also have affixed an image of the ship with adequate detail and zoom level to clearly see the contents and settings of all boxes, loaders and other machinery.
 # 5. Ranks
 ## a. Political Ranks
 - i. The rank of recruit gives only limited voting powers to those which hold it. This is the lowest rank of the clan and the rank that members of hellenes have the right to have.
-- ii. The rank of citizen gives full membership of the assembly to all that hold it. Recruits can be promoted to citizen. Only citizens can be officer, senator, ministry and/or secretary, as parallels ranks.
+- ii. The rank of citizen gives full membership of the assembly to all that hold it. Recruits can be promoted to citizen. Only citizens can be officer, senator, ministry and/or secretary, as parallel ranks.
 - iii. The rank of officer is given to those entrusted to perform specific roles within a department. In most cases, this work is paid. Officers of a department are selected by Secretaries of State of the department.
-- iv. The rank of senator grants all that hold it membership of the senate, this position is elected, the candidate must be a citizen to be able to stand and hold this position. The number of senators is set at 15% of the current member count, rounded to the nearest whole number.
-- v. The rank of Minister have the powers granted to a single secretary of their department other than the power to remove a minister or the situations where both secretaries are need.
+- iv. The rank of senator grants all that hold its membership of the senate, this position is elected, the candidate must be a citizen to be able to stand and hold this position. The number of senators is set at 15% of the current member count, rounded to the nearest whole number.
+- v. The rank of Minister has the powers granted to a single secretary of their department other than the power to remove a minister or the situations where both secretaries are needed.
 - vi. The rank of secretary of state gives powers to appoint a minister to their department with both secretaries' agreement, and being able to remove any minister from their department. Elections for secretaries of state follow the normal procedures. The number of secretaries of state per department is set at 2, and any senator may hold a maximum of 2 different secretary positions.
-- vii. A person must hold a rank above to be considered member of HL.
+- vii. A person must hold a rank above to be considered a member of HL.
 - viii. Any person can resign any rank.
-- ix. Archons are the administrative secretaries. Archons have the job of administering and delivering the results of votes and elections, in their absence, any citizen can do it.
-- x. Magistrates are the secretaries of law; if they or a member of a jury are removed from power, they still have power over cases they reside in.
+- ix. Archons are the administrative secretaries. Archons have the job of administering and delivering the results of votes and elections, in their absence, any citizen can do it. Archons are responsible for moderation of the discord server.
+- x. Magistrates are the secretaries of law; if they or a member of a judge panel are removed from power, they still have power over cases they reside in.
 - xi. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
 ## b. Department of the Exterior Ranks
 - i. Admirals are the secretaries of war and have the supreme power to issue orders in battles, to attack and destroy any ship that’s out if they are negatively interfering with the battle, pose a risk to HL, or are proscribed, as well as to issue orders to friendly ships to go to different coordinates and zones, and to manage Neutral and Ally relations.
