@@ -1,4 +1,4 @@
-# 1. Rules
+8# 1. Rules
 ## a. Offences
 - i. Griefing, scamming, stealing (outside of missions), or FP robbing.
 - ii. Shield managing, driving, or attacking against members, allies or neutrals.
@@ -9,22 +9,26 @@
 - vii. Bribing or blackmailing the assembly or any person/group it has delegated power to.
 - viii. Purposely and maliciously destroying, obstructing, or altering evidence of a crime.
 - ix. Purposely and illegally restricting the constitutional rights of any HL member.
-- x. Breaching any applicable agreement or law.
+- x. Breaching any applicable agreement or law within the Hellenic League.
 ## b. Courts
 - i. Offences may only be tried if one of the parties involved in the offence was at the time or presently is a member of Hellenic League. Does not apply to helping proscribed people.
-- ii. The magisterial court's jury is formed by the magistrates.
-- iii. The senatorial court’s jury is formed by the senate.
-- iv. The high court’s jury is formed by the assembly.
-- v. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court that will judge the specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with stake can be part of it.
+- ii. The magisterial court's judge panel is formed by the magistrates.
+- iii. The senatorial court’s judge panel is formed by the senate.
+- iv. The high court’s judge panel is formed by the assembly.
+- v. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court's judge panel for that specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with a stake can be part of the judge panel.
 - vi. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
-## c. Trial Process
+## c. The Jury
+- i. All cases in the magesterial court will be decided by a six (6) person jury. Each side (prosectuion and defense) is allowed to select three (3) jury members. Each side is allowed to veto one (1) of the opposing side's juror choices.
+- ii. Members of the judge panel and those with an active stake (involved in the ticket/case as prosocution/defense/attorney) are prohibited from being a member of jury for that specific case.
+- iii. In the event of a hung jury (Jury cannont reach a majority) the defendant is declared innocent, but the prosecution can appeal to a higher court.
+## d. Trial Process
 - i. The first step - to start a trial - is a person get an accusation or a request and deliver it to a senator, magistrate or their ministers; A trial can be cancelled by the accusation/request side, unless it already happened.
-- ii. The second step is the accusation or request be accepted by any senator, magistrate, or their ministers as being part of the constitution. The party accepting the case must not have a stake (attorney, defense, or prosecution) in the case, unless there is no uninvolved party able to accept the case.
+- ii. The second step is the accusation or request be accepted by any senator, magistrate, or attorney as beign part of their constitutional duties. The party accepting the case must not have a stake (attorney for either side, defense member, or prosecution member) in the case, unless there is no uninvolved party able to accept the case.
 - iii. The third step is the person that make the accusation/request presenting proofs to the competent court (Start with Magisterial court, if the case exceeds 5k Flux then it goes to Senatorial court; Also should follow 1. b. v.).
 - iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accuseds then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if dont apply, then any senator) should present themselfs *in contrarium* of the requester.
 - v. In the fifth step, after time passes, or the contact was sucessfull, both sides on trial will have 3 days to present proofs, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
 - vi. Then in the sixty step, the jury will decide if, and how the issue should be fixed, following the constituition.
-## d. Fixing Issues
+## e. Fixing Issues
 - i. For offences commited, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of phisical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48h to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
 - ii. For other requests, it shall be followed other parts of constituition, and it becomes official after 48h or an appeal be accepted.
 - iii. Proscribed individuals/groups will have their balances frozen and will be under indefinite embargo and kill on sight order. Any offences may be committed against proscribed individuals with total immunity from prosecution. A list of all proscribed individuals must be made publicly available. Offences may be committed against someone if they have committed an offence and you believe they would be convicted for it. If the person believed to be committing the offence is found innocent in a trial, then any people who committed offences against them would be liable for damages caused.
@@ -74,7 +78,9 @@
 ## c. Constitution
 - i. The constitution is a document that records the current status of all rules in the clan. No one individual document is the “true” constitution, as such anyone can make their own copy and it would hold as much legal force as any other copy should it display with 100% accuracy the will of the assembly and those whom it has delegated power to.
 - ii. Any modifications to the document must be recorded in a publicly accessible way to enable all copies to retain full accuracy.
-- iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes. 
+- iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes.
+## c. Discord Server
+- i. The discord server of the Hellenic League is part of the clan, and as such all actions associated with the discord server are bound by the constitution.
 # 4. Distribution
 ## a. Distribution Systems
 - i. Payments are made to people that help and are proportional to the profit produced.
@@ -104,7 +110,7 @@
 - vi. The rank of secretary of state gives powers to appoint a minister to their department with both secretaries' agreement, and being able to remove any minister from their department. Elections for secretaries of state follow the normal procedures. The number of secretaries of state per department is set at 2, and any senator may hold a maximum of 2 different secretary positions.
 - vii. A person must hold a rank above to be considered member of HL.
 - viii. Any person can resign any rank.
-- ix. Archons are the administrative secretaries. Archons have the job of administering and delivering the results of votes and elections, in their absence, any citizen can do it.
+- ix. Archons are the administrative secretaries. Archons have the job of administering and delivering the results of votes and elections, in their absence, any citizen can do it. Archons are responsible for moderation of the discord server.
 - x. Magistrates are the secretaries of law; if they or a member of a jury are removed from power, they still have power over cases they reside in.
 - xi. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
 ## b. Department of the Exterior Ranks
