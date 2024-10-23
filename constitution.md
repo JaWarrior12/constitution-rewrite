@@ -20,7 +20,7 @@
 - i. All cases in the Magesterial Court will be decided by a six (6) person jury. Each side (prosectuion and defense) is allowed to select three (3) jury members. Each side is allowed to veto one (1) of the opposing side's juror choices.
 - ii. For cases in the Senatorial Court, the senate is the jury. For cases in the High Court, the assembly is the jury.
 - iii. Members of the judge panel and those with an active stake (involved in the ticket/case as prosocution/defense/attorney) are prohibited from being a member of jury for that specific case.
-- iv. In the event of a hung jury (Jury cannont reach a majority) the defendant is declared innocent, but the prosecution can appeal to a higher court.
+- iv. In the event of a hung jury (Jury cannont reach a majority) the defendant is declared innocent, but the prosecution can appeal to a higher court. If the jury of the High Court is hung, then the defendant is declared innocent and cannot be retried for the same case.
 ## d. Trial Process
 - i. The first step - to start a trial - is a person get an accusation or a request and deliver it to a senator, magistrate or their ministers; A trial can be cancelled by the accusation/request side, unless it already happened.
 - ii. The second step is the accusation or request be accepted by any senator, magistrate, or attorney as beign part of their constitutional duties. The party accepting the case must not have a stake (attorney for either side, defense member, or prosecution member) in the case, unless there is no uninvolved party able to accept the case.
