@@ -10,6 +10,7 @@
 - viii. Purposely and maliciously destroying, obstructing, or altering evidence of a crime.
 - ix. Purposely and illegally restricting the constitutional rights of any HL member.
 - x. Breaching any applicable agreement or law within the Hellenic League.
+- xi. Usage of slurs and making racist remarks.
 ## b. Courts
 - i. Offenses may only be tried if one of the parties involved in the offense was at the time or presently is a member of the Hellenic League. Does not apply to helping proscribed people.
 - ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges clarify constitutional questions.
@@ -28,6 +29,7 @@
 - iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accused's then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if don't apply, then any senator) should present themselves *in contrarium* of the requester.
 - v. In the fifth step, after time passes, or the contract is successful, both sides on trial will have 3 days to present proof, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
 - vi. Then in the sixth step, the jury will decide if, and how the issue should be fixed, following the constitution. In the event of a hung jury, see 1.c.iv.
+- vii. All cases have a time limit, if not resolved in that time the defendent is declared innocent. Time limits are as follows:  Magesterial court - 10 Days; Senatorial Court - 15 Days; High Court - 20 Days.
 ## e. Fixing Issues
 - i. For offenses committed, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48h to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
 - ii. For other requests, it shall be followed by other parts of the constitution, and it becomes official after 48h or an appeal be accepted.
