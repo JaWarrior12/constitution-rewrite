@@ -86,9 +86,6 @@
 ## d. Discord Server
 - i. The discord server of the Hellenic League is part of the clan, and as such all actions associated with the discord server are bound by the constitution.
 - ii. The role of "Administrator" is legally bound by the constitution, the duties associated with the "Administrator" role are the responsibility of the Archons and their ministers. 
-## e. External Organizations
-- i. Any organization acting on behalf of, or in combination with the Hellenic League must have its existence (Not necessarily its activities) revealed to the Assembly. Such organizations are classified as External Organizations.
-- ii. External Organizations are prohibited from holding any power over HL, all actions by External Organizations concerning HL, Hellenes, or the General Assembly, must be reported to the senate.
 # 4. Distribution
 ## a. Distribution Systems
 - i. Payments are made to people that help and are proportional to the profit produced.
