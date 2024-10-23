@@ -12,22 +12,22 @@
 - x. Breaching any applicable agreement or law within the Hellenic League.
 ## b. Courts
 - i. Offences may only be tried if one of the parties involved in the offence was at the time or presently is a member of Hellenic League. Does not apply to helping proscribed people.
-- ii. The magisterial court's judge panel is formed by the magistrates.
-- iii. The senatorial court’s judge panel is formed by the senate.
-- iv. The high court’s judge panel is formed by the assembly.
-- v. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court's judge panel for that specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with a stake can be part of the judge panel.
-- vi. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
+- ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges are clarify constitutional questions.
+- The judge panel of all courts are the magistrates.
+- vi. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court's judge panel for that specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with a stake can be part of the judge panel.
+- vii. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
 ## c. The Jury
-- i. All cases in the magesterial court will be decided by a six (6) person jury. Each side (prosectuion and defense) is allowed to select three (3) jury members. Each side is allowed to veto one (1) of the opposing side's juror choices.
-- ii. Members of the judge panel and those with an active stake (involved in the ticket/case as prosocution/defense/attorney) are prohibited from being a member of jury for that specific case.
-- iii. In the event of a hung jury (Jury cannont reach a majority) the defendant is declared innocent, but the prosecution can appeal to a higher court.
+- i. All cases in the Magesterial Court will be decided by a six (6) person jury. Each side (prosectuion and defense) is allowed to select three (3) jury members. Each side is allowed to veto one (1) of the opposing side's juror choices.
+- ii. For cases in the Senatorial Court, the senate is the jury. For cases in the High Court, the assembly is the jury.
+- iii. Members of the judge panel and those with an active stake (involved in the ticket/case as prosocution/defense/attorney) are prohibited from being a member of jury for that specific case.
+- iv. In the event of a hung jury (Jury cannont reach a majority) the defendant is declared innocent, but the prosecution can appeal to a higher court.
 ## d. Trial Process
 - i. The first step - to start a trial - is a person get an accusation or a request and deliver it to a senator, magistrate or their ministers; A trial can be cancelled by the accusation/request side, unless it already happened.
 - ii. The second step is the accusation or request be accepted by any senator, magistrate, or attorney as beign part of their constitutional duties. The party accepting the case must not have a stake (attorney for either side, defense member, or prosecution member) in the case, unless there is no uninvolved party able to accept the case.
 - iii. The third step is the person that make the accusation/request presenting proofs to the competent court (Start with Magisterial court, if the case exceeds 5k Flux then it goes to Senatorial court; Also should follow 1. b. v.).
 - iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accuseds then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if dont apply, then any senator) should present themselfs *in contrarium* of the requester.
 - v. In the fifth step, after time passes, or the contact was sucessfull, both sides on trial will have 3 days to present proofs, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
-- vi. Then in the sixty step, the jury will decide if, and how the issue should be fixed, following the constituition.
+- vi. Then in the sixth step, the jury will decide if, and how the issue should be fixed, following the constituition. In the event of a hung jury, see 1.c.iv.
 ## e. Fixing Issues
 - i. For offences commited, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of phisical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48h to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
 - ii. For other requests, it shall be followed other parts of constituition, and it becomes official after 48h or an appeal be accepted.
