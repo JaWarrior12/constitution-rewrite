@@ -3,7 +3,7 @@
 - i. Griefing, scamming, stealing (outside of missions), or FP robbing.
 - ii. Shield managing, driving, or attacking against members, allies or neutrals.
 - iii. Impersonation of people or clans.
-- iv. Ignoring legitimate battle orders from a higher-ranked commander during battle.
+- iv. Ignoring legitimate battle orders from a higher-ranked memeber during battle.
 - v. Knowingly or willingly helping proscribed people.
 - vi. Knowingly and willingly lying or deceiving the assembly or any person/group it has delegated power to.
 - vii. Bribing or blackmailing the assembly or any person/group it has delegated power to.
@@ -125,6 +125,7 @@
 - iii. Captain is the upper military officer rank; they are qualified for piloting key battleships as well as commanding combat, where they are the highest ranking officer present; They have the power to promote/demote citizens to/from corporal.
 - iv. Corporal is the lower military officer rank; They are pilots qualified for piloting ships in battle.
 - v. An unranked recruit or citizen should not drive ships in battle unless directly ordered to do so in an emergency.
+- vi. Members who issue an order are responsible for reparing ships damaged due to that order, as well as held accountable if the order was illegitimate.
 ## c. Distribution Department Ranks
 - i. Chancellors are the secretaries of state for the economy, and have the power to modify item prices, approve requests for new distribution ships, and to appoint new officers of treasury, missions, materials, and construction. If any officers do not meet their assigned quotas, a Chancellor has the right to remove them.
 - ii. Fleet managers conduct refilling, repairing, and unloading of ships in the distribution fleet. Due to the transportation requirements, they must hold at minimum the military position of corporal.
