@@ -110,15 +110,16 @@
 ## a. Political Ranks
 - i. The rank of recruit gives only limited voting powers to those which hold it. This is the lowest rank of the clan and the rank that members of hellenes have the right to have.
 - ii. The rank of citizen gives full membership of the assembly to all that hold it. Recruits can be promoted to citizen. Only citizens can be officer, senator, ministry and/or secretary, as parallel ranks.
-- iii. The rank of officer is given to those entrusted to perform specific roles within a department. In most cases, this work is paid. Officers of a department are selected by Secretaries of State of the department.
-- iv. The rank of senator grants all that hold its membership of the senate, this position is elected, the candidate must be a citizen to be able to stand and hold this position. The number of senators is set at 15% of the current member count, rounded to the nearest whole number.
-- v. The rank of Minister has the powers granted to a single secretary of their department other than the power to remove a minister or the situations where both secretaries are needed.
-- vi. The rank of secretary of state gives powers to appoint a minister to their department with both secretaries' agreement, and being able to remove any minister from their department. Elections for secretaries of state follow the normal procedures. The number of secretaries of state per department is set at 2, and any senator may hold a maximum of 2 different secretary positions.
-- vii. A person must hold a rank above to be considered a member of HL.
-- viii. Any person can resign any rank.
-- ix. Archons are the administrative secretaries. Archons have the job of administering and delivering the results of votes and elections, in their absence, any citizen can do it. Archons are responsible for moderation of the discord server.
-- x. Magistrates are the secretaries of law; if they or a member of a judge panel are removed from power, they still have power over cases they reside in.
-- xi. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
+- iii. Citizens can be removed from the clan by the agreement of both Demarchos or a simple maority vote in the senate. 
+- iv. The rank of officer is given to those entrusted to perform specific roles within a department. In most cases, this work is paid. Officers of a department are selected by Secretaries of State of the department.
+- v. The rank of senator grants all that hold its membership of the senate, this position is elected, the candidate must be a citizen to be able to stand and hold this position. The number of senators is set at 15% of the current member count, rounded to the nearest whole number.
+- vi. The rank of Minister has the powers granted to a single secretary of their department other than the power to remove a minister or the situations where both secretaries are needed.
+- vii. The rank of secretary of state gives powers to appoint a minister to their department with both secretaries' agreement, and being able to remove any minister from their department. Elections for secretaries of state follow the normal procedures. The number of secretaries of state per department is set at 2, and any senator may hold a maximum of 2 different secretary positions.
+- viii. A person must hold a rank above to be considered a member of HL.
+- ix. Any person can resign any rank.
+- x. Archons are the administrative secretaries. Archons have the job of administering and delivering the results of votes and elections, in their absence, any citizen can do it. Archons are responsible for moderation of the discord server.
+- xi. Magistrates are the secretaries of law; if they or a member of a judge panel are removed from power, they still have power over cases they reside in.
+- xii. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
 ## b. Department of the Exterior Ranks
 - i. Admirals are the secretaries of war and have the supreme power to issue orders in battles, to attack and destroy any ship that’s out if they are negatively interfering with the battle, pose a risk to HL, or are proscribed, as well as to issue orders to friendly ships to go to different coordinates and zones, and to manage Neutral and Ally relations.
 - ii. Commanders are the ministers of admirals, they also have the power to command battles, but not to manage relations; Orders given by admirals are greater than given by commanders.
