@@ -38,7 +38,7 @@
 - iii. Proscribed individuals/groups will have their balances frozen and will be under indefinite embargo and kill on sight order. Any offenses may be committed against proscribed individuals with total immunity from prosecution. A list of all proscribed individuals must be made publicly available.
 - iv. Offenses may be committed against someone if they have committed an offense and you believe they would be convicted for it. If the person believed to be committing the offense is found innocent in a trial, then any people who committed offenses against them would be liable for damages caused.
 - v. An appeal can be done if at least 3 senators agree; In the case of appeal, the judgment is reseted, and should be tried in a higher court; If the first judgment happened on senatorial court, then the second need be done in the senatorial court again before go to the high court; Cases done in high court could be always re-tried in high court.
-- vi. Due to Prosctiption being a relations concern, an individual can only be proscribed with the agreement of at least one (1) Admiral.
+- vi. Due to Proscription being a relations concern, an individual can only be proscribed with the agreement of at least one (1) Admiral.
 # 2. Clan Structure
 ## a. Elections
 - i. Elections are held on the 1st and 15th of every month. Nominations start at 00:00 UTC on the preceding day and voting starts at 00:00 UTC on the day of the elections with results declared at 00:00 UTC the following day.
