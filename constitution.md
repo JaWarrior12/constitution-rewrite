@@ -13,7 +13,7 @@
 - xi. Usage of slurs and making racist remarks.
 - xii. Intentionally delaying legal proceedings
 ## b. Courts
-- i. Offenses may only be tried if one of the parties involved in the offense was at the time or presently is a member of the Hellenic League. Does not apply to helping proscribed people.
+- i. Offenses may only be tried if one of the parties involved in the offense was at the time or presently is a member of the Hellenic League.
 - ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges also clarify constitutional questions.
 - iii. The judge panel of all courts consists of the magistrates.
 - iv. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court's judge panel for that specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with a stake can be part of the judge panel.
