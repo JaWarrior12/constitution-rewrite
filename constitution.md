@@ -22,6 +22,7 @@
 - i. All cases in the Magisterial Court will be decided by a six (6) person jury. Each side (prosecution and defense) is allowed to select three (3) jury members. Each side is allowed to veto one (1) of the opposing side's juror choices.
 - ii. For cases in the Senatorial Court, the senate is the jury. For cases in the High Court, the assembly is the jury.
 - iii. Members of the judge panel and those with an active stake (involved in the ticket/case as prosecution/defense/attorney) are prohibited from being a member of the jury for that specific case.
+- iv. Jury selection for cases in the Magisterial Court can last a maximum of two (2) days. If the jury is unable to be selected in that time, the case is moved to the next highest court.
 ## d. Trial Process
 - i. The first step - to start a trial - is a person get an accusation or a request and delivers it to a senator, magistrate or their ministers; A trial can be canceled by the accusation/request side, unless it already happened.
 - ii. The second step is the accusation or request be accepted by any senator, magistrate, or attorney as being part of their constitutional duties. The party accepting the case must not have a stake (attorney for either side, defense member, or prosecution member) in the case, unless there is no uninvolved party able to accept the case.
