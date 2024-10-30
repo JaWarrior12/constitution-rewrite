@@ -104,7 +104,7 @@
 - vi. The rank of secretary of state gives powers to appoint a minister to their department with both secretaries' agreement, and being able to remove any minister from their department. Elections for secretaries of state follow the normal procedures. The number of secretaries of state per department is set at 2, and any senator may hold a maximum of 2 different secretary positions.
 - vii. A person must hold a rank above to be considered member of HL.
 - viii. Any person can resign any rank.
-- ix. Archons are the administrative secretaries. Archons have the job of administering and delivering the results of votes and elections, in their absence, any citizen can do it.
+- ix. Archons are the administrative secretaries. Archons are responsible for administering and delivering votes and elections (which include communicating that one is happening, collecting every vote, and distributing results). In their absence, any citizen can do it.
 - x. Magistrates are the secretaries of law; if they or a member of a jury are removed from power, they still have power over cases they reside in.
 - xi. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
 ## b. Department of the Exterior Ranks
