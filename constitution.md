@@ -107,6 +107,7 @@
 - ix. Archons are the administrative secretaries. Archons are responsible for administering and delivering votes and elections (which include communicating that one is happening, collecting every vote, and distributing results). In their absence, any citizen can do it.
 - x. Magistrates are the secretaries of law; if they or a member of a jury are removed from power, they still have power over cases they reside in.
 - xi. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
+- xii. Any change in a member's rank must be communicated to the clan, either by the person who made the change or by an archon/their ministers.
 ## b. Department of the Exterior Ranks
 - i. Admirals are the secretaries of war and have the supreme power to issue orders in battles, to attack and destroy any ship that’s out if they are negatively interfering with the battle, pose a risk to HL, or are proscribed, as well as to issue orders to friendly ships to go to different coordinates and zones, and to manage Neutral and Ally relations.
 - ii. Commanders are the ministers of admirals, they also have the power to command battles, but not to manage relations; Orders given by admirals are greater than given by commanders.
