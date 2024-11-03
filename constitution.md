@@ -3,7 +3,7 @@
 - i. Griefing, scamming, stealing (outside of missions), or FP robbing.
 - ii. Shield managing, driving, or attacking against members, allies or neutrals.
 - iii. Impersonation of people or clans.
-- iv. Ignoring legitimate battle orders from a higher-ranked memeber during battle.
+- iv. Ignoring legitimate battle orders from a higher-ranked member during battle.
 - v. Knowingly or willingly helping proscribed people.
 - vi. Knowingly and willingly lying or deceiving the assembly or any person/group it has delegated power to.
 - vii. Bribing or blackmailing the assembly or any person/group it has delegated power to.
@@ -18,6 +18,7 @@
 - iii. The judge panel of all courts consists of the magistrates.
 - iv. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court's judge panel for that specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with a stake can be part of the judge panel.
 - v. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
+- vi. The jurisdiction of the Hellenic League is limited to issues that involve at least one player who was an HL member at the time. HL has no authority over the actions between non-HL members
 ## c. Juries
 - i. All cases in the Magisterial Court will be decided by a six (6) person jury. Each side (prosecution and defense) is allowed to select three (3) jury members. Each side is allowed to veto one (1) of the opposing side's juror choices.
 - ii. For cases in the Senatorial Court, the senate is the jury. For cases in the High Court, the assembly is the jury.
