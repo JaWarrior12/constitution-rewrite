@@ -90,7 +90,9 @@
 - iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes.
 ## d. Discord Server
 - i. The discord server of the Hellenic League is part of the clan, and as such all actions associated with the discord server are bound by the constitution.
-- ii. The role of "Administrator" is legally bound by the constitution, the duties associated with the "Administrator" role are the responsibility of the Archons and their ministers. 
+- ii. The role of "Administrator" is legally bound by the constitution, the duties associated with the "Administrator" role are the responsibility of the Archons and their ministers.
+- iii. Any mute of a member that is longer than one (1) day requires logical reasoning and must be reported to the senate.
+- iv. The role of "Administrator" does not grant permission to remove political roles for any reason. Only the Demarchos or a senate/assembly vote can remove membership roles.
 # 4. Distribution
 ## a. Distribution Systems
 - i. Payments are made to people that help and are proportional to the profit produced.
