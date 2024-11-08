@@ -95,6 +95,12 @@
 - vi. When a ship is decommissioned it will be returned to the donor, refitted, or scrapped.
 - vii. People may lease distribution fleet ships in exchange for freezing an amount of flux from their balance which holds the same value as the ship they intend to lease, they can reclaim this flux in full when the ship is returned in pristine condition, if the ship is not returned in pristine condition the frozen flux will be used to fund repairs/replacement.
 - viii. With the permission of both chancellors, donors can auction their donated ships, with the conditions that: Distribution gets at least 25% of all the revenue and the auction must occur via distribution's auction system with a minimum duration of 48hrs; if the highest bid fails to exceed the raw scrap value of the ship then the sale shall not occur. If the donor is distribution itself, i.e, distribution built the ship at its own expense then the agreement of the senate and both chancellors shall be required to authorise the auction. The auction title must include the full HL name for the design: i.e: "Mk6.2-Kedge", as well as the condition such as (but not limited to) "undamaged and full", "damaged and empty" or "empty shell". Furthermore, the title must also include the id and name of the ship. The auction must also have affixed an image of the ship which is adequate detail and zoom level to clearly see the contents and settings of all boxes, loaders and other machinery.
+## c. Taxes and Prices
+- i. Tax rates and minimum/maximum prices are set by the Senate based on suggestions from the Chancellors, altering tax rates requires both a standard Senate majority and the approval of both Chancellors.
+- ii. Tax rates cannot be decreased without Assembly approval when distro has less than 5,000 Flux surplus.
+- iii. Standard taxes - a set rate of flux paid as a percentage of total amount exchanged - apply to the following systems: Buying ships from distribution, Trading materials with distribution.
+- iv. Split taxes - where each party pays 1/2 of the standard rate to provide an effective average rate between parties  apply to the following systems: Distribution auctions.
+- v. Profit taxes - paid as a percentage of profit earned via distribution at 1/4 the standard rate - apply to the following systems: Distribution paycheques.
 # 5. Ranks
 ## a. Political Ranks
 - i. The rank of recruit gives only limited voting powers to those which hold it. This is the lowest rank of the clan and the rank that members of hellenes have the right to have.
