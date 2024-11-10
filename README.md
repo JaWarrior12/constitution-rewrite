@@ -3,8 +3,8 @@
 - i. Griefing, scamming, stealing (outside of missions), or FP robbing.
 - ii. Shield managing, driving, or attacking against members, allies or neutrals.
 - iii. Impersonation of people or clans.
-- iv. Ignoring legitimate battle orders from a higher-ranked member during battle.
-- v. Knowingly or willingly helping proscribed people.
+- iv. Ignoring legitimate battle orders from a higher-ranked commander during battle.
+- v. Knowingly or willingly aiding proscribed people in a way that negatively affects the victims of the proscribed individual.
 - vi. Knowingly and willingly lying or deceiving the assembly or any person/group it has delegated power to.
 - vii. Bribing or blackmailing the assembly or any person/group it has delegated power to.
 - viii. Purposely and maliciously destroying, obstructing, or altering evidence of a crime.
