@@ -94,6 +94,7 @@
 - ii. The role of "Administrator" is legally bound by the constitution, the duties associated with the "Administrator" role are the responsibility of the Archons and their ministers.
 - iii. Any mute of a member that is longer than one (1) day requires logical reasoning and must be reported to the senate.
 - iv. The role of "Administrator" does not grant permission to remove political roles for any reason. Only the Demarchos or a senate/assembly vote can remove membership roles.
+- v. Banning of members must start as a senate or assembly vote. A defensible reason must be provided.
 # 4. Distribution
 ## a. Distribution Systems
 - i. Payments are made to people that help and are proportional to the profit produced.
