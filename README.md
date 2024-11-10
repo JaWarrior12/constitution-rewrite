@@ -90,7 +90,9 @@
 - iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes.
 ## d. Discord Server
 - i. The discord server of the Hellenic League is part of the clan, and as such all actions associated with the discord server are bound by the constitution.
-- ii. The role of "Administrator" is legally bound by the constitution, the duties associated with the "Administrator" role are the responsibility of the Archons and their ministers. 
+- ii. The role of "Administrator" is legally bound by the constitution, the duties associated with the "Administrator" role are the responsibility of the Archons and their ministers.
+- iii. Any mute of a member that is longer than one (1) day requires logical reasoning and must be reported to the senate.
+- iv. The role of "Administrator" does not grant permission to remove political roles for any reason. Only the Demarchos or a senate/assembly vote can remove membership roles.
 # 4. Distribution
 ## a. Distribution Systems
 - i. Payments are made to people that help and are proportional to the profit produced.
@@ -121,7 +123,7 @@
 - vii. The rank of secretary of state gives powers to appoint a minister to their department with both secretaries' agreement, and being able to remove any minister from their department. Elections for secretaries of state follow the normal procedures. The number of secretaries of state per department is set at 2, and any senator may hold a maximum of 2 different secretary positions.
 - viii. A person must hold a rank above to be considered a member of HL.
 - ix. Any person can resign any rank.
-- x. Archons are the administrative secretaries. Archons have the job of administering and delivering the results of votes and elections, in their absence, any citizen can do it. Archons are responsible for moderation of the discord server.
+- x. Archons are the administrative secretaries. Archons are responsible for administering and delivering votes and elections (which include communicating that one is happening, collecting every vote, and distributing results). In their absence, any citizen can do it. Archons are responsible for moderation of the discord server.
 - xi. Magistrates are the secretaries of law; if they or a member of a judge panel are removed from power, they still have power over cases they reside in.
 - xii. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
 - xiii. Any change in a member's rank must be communicated to the clan, either by the person who made the change or by an archon/their ministers.
