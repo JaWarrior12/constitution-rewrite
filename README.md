@@ -14,7 +14,7 @@
 - xii. Intentionally delaying or obstructing legislative, judicial, or secretarial processes.
 ## b. Courts
 - i. Offenses may only be tried if one of the parties involved in the offense was at the time or presently is a member of the Hellenic League.
-- ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges also clarify constitutional questions.
+- ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges must also clarify constitutional questions.
 - iii. The judge panel of all courts consists of the magistrates.
 - iv. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court's judge panel for that specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with a stake can be part of the judge panel.
 - v. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
