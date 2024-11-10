@@ -123,7 +123,7 @@
 - vii. The rank of secretary of state gives powers to appoint a minister to their department with both secretaries' agreement, and being able to remove any minister from their department. Elections for secretaries of state follow the normal procedures. The number of secretaries of state per department is set at 2, and any senator may hold a maximum of 2 different secretary positions.
 - viii. A person must hold a rank above to be considered a member of HL.
 - ix. Any person can resign any rank.
-- x. Archons are the administrative secretaries. Archons have the job of administering and delivering the results of votes and elections, in their absence, any citizen can do it. Archons are responsible for moderation of the discord server.
+- x. Archons are the administrative secretaries. Archons are responsible for administering and delivering votes and elections (which include communicating that one is happening, collecting every vote, and distributing results). In their absence, any citizen can do it. Archons are responsible for moderation of the discord server.
 - xi. Magistrates are the secretaries of law; if they or a member of a judge panel are removed from power, they still have power over cases they reside in.
 - xii. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
 - xiii. Any change in a member's rank must be communicated to the clan, either by the person who made the change or by an archon/their ministers.
