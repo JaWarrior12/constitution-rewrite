@@ -58,13 +58,14 @@
 - ii. All members can vote in the assembly.
 - iii. All members of the senate can start a vote in the senate.
 - iv. All members of the senate can vote in the senate.
-- v. Voting will last a minimum of 24 hours from the vote first being posted, the creator of the vote may prolong the voting timer only once by an addition of another 24 hours if less than 40% of citizens have participated in it.
-- vi. The vote can end early if voting from all who are yet to vote can’t alter the final result.
-- vii. If the vote is at a draw by the time it has concluded, the status-quo shall be maintained.
-- viii. In the event of vote fraud, all votes cast by the perpetrator shall be ignored.
-- ix. No vote can be retroactive.
-- x. A minimum of three senators must proofread any proposed vote; the proofreaders can be selected by the person proposing the vote. Any senator who is not an archon may refuse to proofread a vote. If the vote creator proofreads the vote, it will not count as a proofread, therefore three different senators must proofread the vote. Alternatively, if 72 hours pass after the proposed vote was presented to the Senate, the vote can be posted regardless of the current number of proofreads, however any laws about proofreads that were offered still apply. The suggestions of the proofreaders are non-binding. When the vote is started, the names of all proofreaders must be listed; all suggestions which were presented by the proofreaders which were not implemented must be disclosed in the vote message.
-- xi. If a vote fails to reach the required majority for its body (including factoring in neutral votes) then it shall be considered undecided. Undecided votes are to pass to the alternate body (senate votes to assembly and assembly votes to senate). For deciding, this cycle shall proceed until one body gives a definitive outcome.
+- v. No retribution or legal consequences can be based on a vote, and voting choices cannot be considered in legal cases,
+- vi. Voting will last a minimum of 24 hours from the vote first being posted, the creator of the vote may prolong the voting timer only once by an addition of another 24 hours if less than 40% of citizens have participated in it.
+- vii. The vote can end early if voting from all who are yet to vote can’t alter the final result.
+- viii. If the vote is at a draw by the time it has concluded, the status-quo shall be maintained.
+- ix. In the event of vote fraud, all votes cast by the perpetrator shall be ignored.
+- x. No vote can be retroactive.
+- xi. A minimum of three senators must proofread any proposed vote; the proofreaders can be selected by the person proposing the vote. Any senator who is not an archon may refuse to proofread a vote. If the vote creator proofreads the vote, it will not count as a proofread, therefore three different senators must proofread the vote. Alternatively, if 72 hours pass after the proposed vote was presented to the Senate, the vote can be posted regardless of the current number of proofreads, however any laws about proofreads that were offered still apply. The suggestions of the proofreaders are non-binding. When the vote is started, the names of all proofreaders must be listed; all suggestions which were presented by the proofreaders which were not implemented must be disclosed in the vote message.
+- xii. If a vote fails to reach the required majority for its body (including factoring in neutral votes) then it shall be considered undecided. Undecided votes are to pass to the alternate body (senate votes to assembly and assembly votes to senate). For deciding, this cycle shall proceed until one body gives a definitive outcome.
 ## c. Hellenes
 - i. Members of a Hellene clan are entitled to membership of HL.
 - ii. An attack on a member of HL using proper HL and or Hellene tags is an attack on all HL and Hellenes members.
