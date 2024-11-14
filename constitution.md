@@ -75,7 +75,13 @@
 ## c. Constitution
 - i. The constitution is a document that records the current status of all rules in the clan. No one individual document is the “true” constitution, as such anyone can make their own copy and it would hold as much legal force as any other copy should it display with 100% accuracy the will of the assembly and those whom it has delegated power to.
 - ii. Any modifications to the document must be recorded in a publicly accessible way to enable all copies to retain full accuracy.
-- iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes. 
+- iii. Any individual may edit the constitution in such a way that improves readability and accessibility without changing the meaning of any part of the document; examples could include (but are not limited to) making the document more concise, adding additional punctuation, fixing spelling mistakes or adding summaries and footnotes.
+## d. Committee
+- i. Each department will operate its own Committee, it will be chaired by the respective Secretaries of State.
+- ii. On each Committee all holders of the senior two most positions within that department, and additional ranks of the department selected to be permitted access will hold seats in the department.
+- iii. Each Committee will also have observer members, these observer members are external to the department’s normal Committee and will contain all Senators and senior officials from other departments which closely cooperate with each other. These observer members will provide scrutiny, assistance and ideas to support the department in areas it requires assistance.
+- iv. The Committee will be the main forum for debate on departmental policy and approach, with jobs to be allocated amongst the various members and then sub-allocated to any applicable non-members of the Committee within the department.
+- v. With a majority of 66% or greater a Committee can overrule and utilise both the individual and collective powers held by the Secretaries of State for that department; they are still however subject to Senatorial overruling.
 # 4. Distribution
 ## a. Distribution Systems
 - i. Payments are made to people that help and are proportional to the profit produced.
