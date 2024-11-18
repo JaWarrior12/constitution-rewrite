@@ -92,6 +92,7 @@
 - vi. Designers will get a total 5% share of all profits made by distribution selling their designs.
 - vii. In the event that distribution’s total balance of an item exceeds its stock, the system will automatically sell a proportionate amount from all balances to bring it to a reasonable level for distribution operations.
 - viii. If an order has been claimed for more than 48hrs without it being completed the order shall be automatically unclaimed and an amount equal to 20% of the order's profit will be deducted from the claimer's balance and added to the extra-pay value for the order. In order to prevent abuse of this system any claimer must hold at least 20% the profit  value of the order they wish to claim in their balance before being able to claim.
+- ix. Loot obtained by the HL team in PvP event must be sent to distribution and logged, pilots and dedicated commanders (defined as the Admiral or Commander that is exclusively only coordinating ships and or crew) receive full base pay rate, shield swappers receive 75% base pay rate and crew receive 50% base pay rate. Base payrates will be decreased proportionally based on time spent actively helping, as with all other logged work. In return Ships used by the HL team in PvP event will be refiled by distribution.
 ## b. Distribution Fleet
 - i. Members of the military can be given access to ships on a case by case basis.
 - ii. The commander who uses or orders use of a ship is responsible for updating the spreadsheet.
