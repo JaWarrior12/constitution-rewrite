@@ -149,3 +149,9 @@
 - i. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan, if they are not apprentices of a dept. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
 - ii. Politarchs are the ministers of this department, having the power of a singular demarchos. They also must assist with promotions and demotions on other departments.
 - iii. Management officers are responsible for inviting new members for the clan, as well to make reports to comitee on who should receive promotions and demotions.
+## d. Judiciary Department Ranks
+- i.  Kritai are the secretaries of this department and the members of the the magisterial court. They must conduct judgements, and advocate on cases done on High Court. And have the individual power to promote/demote attorneys.
+- ii. Dikegoroi are the ministers of this department. They can also assist on conduction of judgements, and they must advocate on cases done on Senatorial Court.
+- iii. Attorneys are officers for this department, they must advocate on cases done in Magisterial court.
+- iv. Anyone can advocate in cases but the ranks above must pick a side and advocate for it.
+- v. Advocating in court can never fall under the definition of helping a proscribed person.
