@@ -40,12 +40,13 @@
 - ii. For other requests, it shall be followed by other parts of the constitution, and it becomes official after 48h or an appeal be accepted.
 - iii. An appeal can be done if at least 3 senators agree; In the case of appeal, the judgment is reseted to the 1.c.iii), and should be done in a higher court. If the first judgement happened on senatorial court, then the second shall be done in the senatorial court again before going to the high court. Cases done in high court will be always re-tried in high court.
 - iv. The victim side can drop charges and thus make the accused side innocent at any time, if done voluntarily.
-- v. Once convicted the individual will have 48h to solve the issue as jury decides how to, or for an appeal be accepted, or else they will be proscribed.
+- v. Once convicted the individual/group will have 48h to solve the issue as jury decides how to, or for an appeal be accepted, or else they can be proscribed by the collective power of magistrates.
 - vi. A list of all proscribed individuals must be made publicly available.
 - vii. Proscribed individuals/groups will have their balances frozen and will be under indefinite embargo and kill on sight order.
 - viii. Offences may be committed against someone if they have committed an offence and you believe they would be convicted for it and you committing an offence against them would reduce the harm done by the original offender's actions. If the person believed to be committing the offence is found innocent in a trial, or the counter-offence is deemed disproportionate (where counter-offence was not preventive or impact reducer), then any people who committed offences against them would be liable for damages caused and a fine.
 - ix. Any offences may be committed against proscribed individuals with total immunity from prosecution.
-- x. Due to Proscription being a relations concern, an individual can only be proscribed with the agreement of at least one (1) Admiral.
+- x. Proscribed individuals/groups can be unproscribed by the collective power of magistrates after the issue is solved. Proscriptions also will be automatically cancelled after 30 days, in this case the individual power of magistrates can renewal them.
+- xi. Due to Proscription being a relations concern, an individual can only be proscribed with the agreement of at least one (1) Admiral.
 # 2. Clan Structure
 ## a. Elections
 - i. Elections are held on the 1st and 15th of every month. Nominations start at 00:00 UTC on the preceding day and voting starts at 00:00 UTC on the day of the elections with results declared at 00:00 UTC the following day.
@@ -135,18 +136,15 @@
 # 5. Ranks
 ## a. Political Ranks
 - i. The rank of recruit gives only limited voting powers to those which hold it. This is the lowest rank of the clan and the rank that members of hellenes have the right to have.
-- ii. The rank of citizen gives full membership of the assembly to all that hold it. Recruits can be promoted to citizen. Only citizens can be officer, senator, ministry and/or secretary, as parallel ranks.
-- iii. Citizens can be removed from the clan by the agreement of both Demarchos or a simple maority vote in the senate. 
+- ii. The rank of citizen gives full membership of the assembly to all that hold it. Recruits can be promoted to citizen. Only citizens can be officer, senator, ministry and/or secretary, as parallels ranks.
+- iii. The rank of Apprentice is for begginers on a department, once they get officer on it they lost the role, either recruits or citizens can have them as paralel ranks.
 - iv. The rank of Officer is given to those entrusted to perform specific jobs within a department. Officers are selected by the internal procedure defined by each department with senatorial approval after a specific training threshold is reached and the department leadership is satisfied.
-- v. The rank of senator grants all that hold its membership of the senate, this position is elected, the candidatej must be a citizen to be able to stand and hold this position. The number of senators is set at 15% of the current member count, rounded to the nearest whole number.
+- v. The rank of senator grants all that hold it membership of the senate, this position is elected, the candidate must be a citizen to be able to stand and hold this position. The number of senators is set at 15% of the current member count, rounded to the nearest whole number.
 - vi. The rank of Minister has specific powers within their department. If two Ministers are in agreement they may execute the power normally conferred individually onto a Secretary of State, this is subject to veto from another Minister of the same department or the Senate. Ministers are appointed with the agreement of one Secretary of State and a majority of the Senate.
 - vii. The rank of Secretary of State gives powers defined within their department. Some powers are "individual", each individual Secretary of State may execute that power subject to Senatorial veto. While other powers are "collective", these powers can only be executed with the agreement of both Secretaries of State, and is subject to Senatorial veto. Elections for Secretaries of State follow the normal procedures, the number of Secretaries of State per department is set at two. Any senator may hold a maximum of two different Secretary of State positions, a candidate must be both a Minister in the correct department and a Senator to stand for election to Secretary of State.
-- vii. A person must hold a rank above to be considered member of HL.
+- viii. A person must hold a rank above to be considered member of HL.
 - ix. Any person can resign any rank.
-- x. Archons are the administrative secretaries. Archons are responsible for administering and delivering votes and elections (which include communicating that one is happening, collecting every vote, and distributing results). In their absence, any citizen can do it. Archons are responsible for moderation of the discord server.
-- xi. Magistrates are the secretaries of law; if they or a member of a judge panel are removed from power, they still have power over cases they reside in.
-- xii. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
-- xiii. Any change in a member's rank must be communicated to the clan, either by the person who made the change or by an archon/their ministers.
+- x. Any change in a member's rank must be communicated to the clan, either by the person who made the change or by an archon/their ministers.
 ## b. Department of the Exterior Ranks
 - i. Admirals are the secretaries state for war and are the top military commanders as well as holding the individual power to neutral clans, enter temporary truces and the collective power to ally clans. Admirals are able to remove Trainees and if both agree they can remove Officers.
 - ii. Commanders are the Ministers of Admirals, they also have the power to command battles. Prior to becoming a Commander the individual must be a Captain and pass the strategic command school in addition to standard Ministerial appointment rules.
@@ -169,3 +167,8 @@
 - i. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan, if they are not apprentices of a dept. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
 - ii. Politarchs are the ministers of this department, having the power of a singular demarchos. They also must assist with promotions and demotions on other departments.
 - iii. Management officers are responsible for inviting new members for the clan, as well to make reports to comitee on who should receive promotions and demotions.
+## d. Judiciary Department Ranks
+- i.  Kritai are the secretaries of this department and the members of the the magisterial court. They must conduct judgements, and advocate on cases done on High Court. And have the individual power to promote/demote attorneys.
+- ii. Dikegoroi are the ministers of this department. They can also assist on conduction of judgements, and they must advocate on cases done on Senatorial Court.
+- iii. Attorneys are officers for this department, they must advocate on cases done in Magisterial court.
+- iv. Anyone can advocate in cases without be convicted for do so, unless the person in question send fake proofs. But the ranks above must pick a side and advocate for it.
