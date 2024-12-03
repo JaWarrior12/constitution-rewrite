@@ -11,14 +11,16 @@
 - ix. Purposely and illegally restricting the constitutional rights of any HL member.
 - x. Breaching any applicable agreement or law within the Hellenic League.
 - xi. Usage of slurs and making racist remarks.
-- xii. Intentionally delaying legal proceedings
+- xii. Intentionally delaying or obstructing legislative, judicial, or secretarial processes.
 ## b. Courts
 - i. Offenses may only be tried if one of the parties involved in the offense was at the time or presently is a member of the Hellenic League.
-- ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges also clarify constitutional questions.
+- ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges must also clarify constitutional questions.
 - iii. The judge panel of all courts consists of the magistrates.
 - iv. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court's judge panel for that specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with a stake can be part of the judge panel.
-- v. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
-- vi. The jurisdiction of the Hellenic League is limited to issues that involve at least one player who was an HL member at the time. HL has no authority over the actions between non-HL members
+- v. Any persons not the plaintiff, defendant, a representative of one of the parties thereof, a member of the jury, or a judge will be excluded from speaking in the thread, ticket, channel, or forum where the case is being held.
+- vi. All citizens of HL, and members of the other clan(s) which the plaintiff and/or defendant is a member of if applicable have access to view a case. Additionally, access to readable records the cases must be mantained indefinetly within a searchable databse.
+- vii. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
+- viii. The jurisdiction of the Hellenic League is limited to issues that involve at least one player who was an HL member at the time. HL has no authority over the actions between non-HL members
 ## c. Juries
 - i. All cases in the Magisterial Court will be decided by a six (6) person jury. Each side (prosecution and defense) is allowed to select three (3) jury members. Each side is allowed to veto one (1) of the opposing side's juror choices.
 - ii. For cases in the Senatorial Court, the senate is the jury. For cases in the High Court, the assembly is the jury.
@@ -37,8 +39,8 @@
 - i. For offenses committed, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of physical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48 hours to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
 - ii. For other requests, it shall be followed by other parts of the constitution, and it becomes official after 48h or an appeal be accepted.
 - iii. Proscribed individuals/groups will have their balances frozen and will be under indefinite embargo and kill on sight order. Any offenses may be committed against proscribed individuals with total immunity from prosecution. A list of all proscribed individuals must be made publicly available.
-- iv. Offenses may be committed against someone if they have committed an offense and you believe they would be convicted for it. If the person believed to be committing the offense is found innocent in a trial, then any people who committed offenses against them would be liable for damages caused.
-- v. An appeal can be done if at least 3 senators agree; In the case of appeal, the judgment is reseted, and should be tried in a higher court; If the first judgment happened on senatorial court, then the second need be done in the senatorial court again before go to the high court; Cases done in high court could be always re-tried in high court.
+- iv. Offenses may be commited against a person who the perpetrator believes has committed an offense, however if this clause is invoked a General Assembly vote (which is immune to any proofreading requirements) must be created within 24 hours on wether the use of this caluse was justified, and if the use was found to be unjustified the invoker will be obligated to cover twice the damages wether or not the victim was found guilty of the offense. If the invocation of this clause was found to be unnecessary, in cases where the invoker of this clause has any military roles beyond corporal or a senatorial position, another GA vote will start on wether any wether every roles should be reboked should be revoked.
+- v. An appeal can be done if at least 3 senators agree; In the case of appeal, the judgment is reset, and should be tried in a higher court; If the first judgment happened on senatorial court, then the second need be done in the senatorial court again before go to the high court; Cases done in high court could be always re-tried in high court.
 - vi. Due to Proscription being a relations concern, an individual can only be proscribed with the agreement of at least one (1) Admiral.
 # 2. Clan Structure
 ## a. Elections
@@ -56,13 +58,14 @@
 - ii. All members can vote in the assembly.
 - iii. All members of the senate can start a vote in the senate.
 - iv. All members of the senate can vote in the senate.
-- v. Voting will last a minimum of 24 hours from the vote first being posted, the creator of the vote may prolong the voting timer only once by an addition of another 24 hours if less than 40% of citizens have participated in it.
-- vi. The vote can end early if voting from all who are yet to vote can’t alter the final result.
-- vii. If the vote is at a draw by the time it has concluded, the status-quo shall be maintained.
-- viii. In the event of vote fraud, all votes cast by the perpetrator shall be ignored.
-- ix. No vote can be retroactive.
-- x. A minimum of three senators must proofread any proposed vote; the proofreaders can be selected by the person proposing the vote. Any senator who is not an archon may refuse to proofread a vote. If the vote creator proofreads the vote, it will not count as a proofread, therefore three different senators must proofread the vote. The suggestions of the proofreaders are non-binding. When the vote is started, the names of all proofreaders must be listed; all suggestions which were presented by the proofreaders which were not implemented must be disclosed in the vote message.
-- xi. If a vote fails to reach the required majority for its body (including factoring in neutral votes) then it shall be considered undecided. Undecided votes are to pass to the alternate body (senate votes to assembly and assembly votes to senate). For deciding, this cycle shall proceed until one body gives a definitive outcome.
+- v. No retribution or legal consequences can be based on a vote, and voting choices cannot be considered in legal cases,
+- vi. Voting will last a minimum of 24 hours from the vote first being posted, the creator of the vote may prolong the voting timer only once by an addition of another 24 hours if less than 40% of citizens have participated in it.
+- vii. The vote can end early if voting from all who are yet to vote can’t alter the final result.
+- viii. If the vote is at a draw by the time it has concluded, the status-quo shall be maintained.
+- ix. In the event of vote fraud, all votes cast by the perpetrator shall be ignored.
+- x. No vote can be retroactive.
+- xi. A minimum of three senators must proofread any proposed vote; the proofreaders can be selected by the person proposing the vote. Any senator who is not an archon may refuse to proofread a vote. If the vote creator proofreads the vote, it will not count as a proofread, therefore three different senators must proofread the vote. Alternatively, if 72 hours pass after the proposed vote was presented to the Senate, the vote can be posted regardless of the current number of proofreads, however any laws about proofreads that were offered still apply. The suggestions of the proofreaders are non-binding. When the vote is started, the names of all proofreaders must be listed; all suggestions which were presented by the proofreaders which were not implemented must be disclosed in the vote message.
+- xii. If a vote fails to reach the required majority for its body (including factoring in neutral votes) then it shall be considered undecided. Undecided votes are to pass to the alternate body (senate votes to assembly and assembly votes to senate). For deciding, this cycle shall proceed until one body gives a definitive outcome.
 ## c. Hellenes
 - i. Members of a Hellene clan are entitled to membership of HL.
 - ii. An attack on a member of HL using proper HL and or Hellene tags is an attack on all HL and Hellenes members.
