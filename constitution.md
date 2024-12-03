@@ -154,3 +154,12 @@
 - iv. Officers of material borrow farmers from the distribution fleet for the purpose of filling them and then being logged, they shall repair any damage incurred to the ships they have borrowed. They must hold at minimum the military position of corporal.
 - v. Officers of missions borrow mission ships from the distribution fleet for the purpose of filling them and then being logged, they shall repair any damage incurred to the ships they have borrowed. They must hold at minimum the military position of corporal.
 - vi. Officers of the treasury would serve the role of handling withdrawals/deposits under the value of 2.5k flux at all times when possible. They would be required to maintain a minimum of 5k flux value in their balance at all times to insure against any attempts at scamming.
+## d. Communication Department Ranks
+- i. Archons are the communication secretaries. They are responsible for administering and delivering votes and elections (which include communicating that one is happening, collecting every vote, and distributing results), as well do other functions that officers of this department have. In their absence, any citizen can do it.
+- ii. Epistates are the ministers of communication and can do the archon's job on their behalf.
+- iii. The advertisement officers are responsible to make propaganda about HL, which may include statitcs of clan, make/edit videos, memes, newspapers and others means.
+- iv. The information officers are responsible to help members about with information about the clan, the game, etc; Members may ask them relevant questions.
+## e. Internal Affairs Department Ranks
+- i. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan, if they are not apprentices of a dept. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
+- ii. Politarchs are the ministers of this department, having the power of a singular demarchos. They also must assist with promotions and demotions on other departments.
+- iii. Management officers are responsible for inviting new members for the clan, as well to make reports to comitee on who should receive promotions and demotions.
