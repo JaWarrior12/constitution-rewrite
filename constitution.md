@@ -52,7 +52,7 @@
 - ii. All members can vote in the assembly.
 - iii. All members of the senate can start a vote in the senate.
 - iv. All members of the senate can vote in the senate.
-- v. Voting will last a minimum of 24 hours from the vote first being posted, the creator of the vote may prolong the voting timer only once by an addition of another 24 hours if less than 40% of citizens have participated in it.
+- v. Voting will last 24 hours from the vote first being posted.
 - vi. The vote can end early if voting from all who are yet to vote can’t alter the final result.
 - vii. If the vote is at a draw by the time it has concluded, the status-quo shall be maintained.
 - viii. In the event of vote fraud, all votes cast by the perpetrator shall be ignored.
