@@ -12,22 +12,29 @@ temp
 - ix. Purposely and illegally restricting the constitutional rights of any HL member.
 - x. Breaching any applicable agreement or law.
 ## b. Courts
-- i. Offences may only be tried if one of the parties involved in the offence was at the time or presently is a member of Hellenic League. Does not apply to helping proscribed people.
-- ii. The magisterial court's jury is formed by the magistrates.
-- iii. The senatorial court’s jury is formed by the senate.
-- iv. The high court’s jury is formed by the assembly.
-- v. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court that will judge the specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with stake can be part of it.
+- i. Offenses may only be tried if one of the parties involved in the offense was at the time or presently is a member of the Hellenic League.
+- ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges also clarify constitutional questions.
+- iii. The judge panel of all courts consists of the magistrates.
+- iv. Who is member of a case's Judge Panel is subjected to dynamic change on roles, such elections, appointments, etc.
+- v. People that have a stake in a case (they are victim or plaintiff) are excluded from being a member of the court's judge panel for that specific case. If no court exists which has a sufficient number (minimum of two) of judges (defined as two for magistrates court, 66% of senators for senatorial court or 50% of members for high court) without a stake, it shall be tried in a higher court if it is magistrates court, if it is senatorial or high court, then people with a stake can be part of the judge panel.
 - vi. Before starting a trial against a member of a foreign clan (including Hellenes) the prosecution must show evidence of at least one of the following: The foreign clan does not accept report tickets from HL, the foreign clan does not enforce rules its own members for the offence(s) in question or the foreign clan agrees on a breach but declines to engage in resolution.
-- vii. A case cannot be opened if any of the following are true: Both parties are in a state of war with HL, Neither party is a member of HL or a Hellene and the parties are at peace with eachother.
-- viii. Who are the members of the juries are subjected to dynamic change on roles, such elections, appointments, etc.
-## c. Trial Process
-- i. The first step - to start a trial - is a person get an accusation or a request and deliver it to a senator, magistrate or their ministers; A trial can be cancelled by the accusation/request side, unless it already happened.
-- ii. The second step is the accusation or request be accepted by any senator, magistrate, or their ministers as being part of the constitution. The party accepting the case must not have a stake (attorney, defense, or prosecution) in the case, unless there is no uninvolved party able to accept the case.
-- iii. The third step is the person that make the accusation/request presenting proofs to the competent court (Start with Magisterial court, if the case exceeds 5k Flux then it goes to Senatorial court; Also should follow 1. b. v.).
-- iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accuseds then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if dont apply, then any senator) should present themselfs *in contrarium* of the requester.
-- v. In the fifth step, after time passes, or the contact was sucessfull, both sides on trial will have 3 days to present proofs, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
-- vi. Then in the sixty step, the jury will decide if, and how the issue should be fixed, following the constituition.
-## d. Fixing Issues
+- vii. The jurisdiction of the Hellenic League is limited to issues that involve at least one player who was an HL member at the time. HL has no authority over the actions between non-HL members
+- viii. A case cannot be opened if any of the following are true: Both parties are in a state of war with HL, Neither party is a member of HL or a Hellene and the parties are at peace with eachother.
+## c. Juries
+- i. All cases in the Magisterial Court will be decided by a six (6) person jury. Each side (prosecution and defense) is allowed to select three (3) jury members. Each side is allowed to veto one (1) of the opposing side's juror choices.
+- ii. For cases in the Senatorial Court, the senate is the jury. For cases in the High Court, the assembly is the jury.
+- iii. Members of the judge panel and those with an active stake (involved in the ticket/case as prosecution/defense/attorney) are prohibited from being a member of the jury for that specific case.
+- iv. Jury selection for cases in the Magisterial Court can last a maximum of two (2) days. If the jury is unable to be selected in that time, the case is moved to the next highest court.
+## d. Trial Process
+- i. The first step - to start a trial - is a person get an accusation or a request and delivers it to a senator, magistrate or their ministers; A trial can be canceled by the accusation/request side, unless it already happened.
+- ii. The second step is the accusation or request be accepted by any senator, magistrate, or attorney as being part of their constitutional duties. The party accepting the case must not have a stake (attorney for either side, defense member, or prosecution member) in the case, unless there is no uninvolved party able to accept the case.
+- iii. The third step is the person that makes the accusation/request presenting proofs to the competent court (Start with Magisterial court, if the case exceeds 5k Flux then it goes to Senatorial court; Also should follow 1. b. v.).
+- iv. In the fourth step; If its an accusation, the magistrates or their ministers shall try contact the accused(s), the accused's then will have 48h to respond; If a request have no defendant, then a secretary or minister of a department receiving the request (if don't apply, then any senator) should present themselves *in contrarium* of the requester.
+- v. In the fifth step, after time passes, or the contract is successful, both sides on trial will have 3 days to present proof, the method to fix the issue and discuss; The jury may discuss here too; This time can be short if both sides agree.
+- vi. Then in the sixth step, the jury will decide if, and how the issue should be fixed, following the constitution.
+- vii. In the event of a hung jury (Jury cannot reach a majority) the defendant is declared innocent and the case is dismissed without prejudice (The prosecution can appeal to a higher court). If the jury of the High Court is hung, then the defendant is declared innocent and the case dismissed with prejudice.
+- viii. All cases have a time limit, if not resolved in that time the defendent is declared innocent and the case dismissed with prejudice. Time limits are as follows:  Magesterial court - 10 Days; Senatorial Court - 15 Days; High Court - 20 Days. If the judge panel decides that the defendent has deliberately wasted time in order to obtain an innocent verdict, the case will continue in the next highest court (Unless this is in the High Court, there it will be an automatic guilt verdict) and the defendent will faced an added charge of "Intentionally delaying legal proceedings." 
+## e. Fixing Issues
 - i. For offences commited, if the accused side is found guilty, the jury will decide the sentence, which could be: Payment of phisical or in game damages caused, a fine from 0 to 2500 flux to the victims or The Distribution, and/or, the offender do an action that would help to repair/revert the offense. They will have 48h to solve the issue or an appeal be accepted, or else they will be proscribed. The victim side can drop charges and make the accused side innocent, if done voluntarily.
 - ii. For other requests, it shall be followed other parts of constituition, and it becomes official after 48h or an appeal be accepted.
 - iii. An appeal can be done if at least 3 senators agree; In the case of appeal, the judgment is reseted to the 1.c.iii), and should be done in a higher court. If the first judgement happened on senatorial court, then the second shall be done in the senatorial court again before going to the high court. Cases done in high court will be always re-tried in high court.
