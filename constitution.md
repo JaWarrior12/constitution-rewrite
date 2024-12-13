@@ -63,7 +63,7 @@
 - ii. All members can vote in the assembly.
 - iii. All members of the senate can start a vote in the senate.
 - iv. All members of the senate can vote in the senate.
-- v. Voting will last a minimum of 24 hours from the vote first being posted, the creator of the vote may prolong the voting timer only once by an addition of another 24 hours if less than 40% of citizens have participated in it.
+- v. Voting will last 24 hours from the vote first being posted.
 - vi. The vote can end early if voting from all who are yet to vote can’t alter the final result.
 - vii. If the vote is at a draw by the time it has concluded, the status-quo shall be maintained.
 - viii. In the event of vote fraud, all votes cast by the perpetrator shall be ignored.
@@ -84,7 +84,8 @@
 ## a. Assembly
 - i. The assembly is a body consisting of all members of the clan, this institution elects senators and secretaries. Votes are also conducted in the assembly, a vote conducted in the assembly can only be overruled by a later vote by the assembly.
 - ii. All powers are the exclusive reserve of the assembly unless otherwise delegated; the assembly can never remove its right to exercise any powers, it may only grant permission for others to exercise them on its behalf.
-- iii. The assembly is treated as an individual in court.
+- iii. A request on courts can be opened to confirm if a power exercised by a member, two secretaries of a department or a comitee was valid. The both sides on the said case will be who sent the request and the side that did the disputed action.
+- iv. The assembly is treated as an individual in court.
 ## b. Senate
 - i. The senate is a body consisting of all senators and secretaries of state, this institution can conduct votes which can overrule decrees but be overruled by the assembly. The senate will also be available to advise individuals and institutions both above and below it on any matters they feel qualified to do so. The senate will also be available to produce reports on any topic for which they are qualified.
 - ii. The senate can only decide matters with a ⅔ majority in either direction - unless otherwise explicitly specified, if a majority in either direction can be reached the matter shall be delegated to the assembly for settling.
@@ -159,15 +160,15 @@
 - iv. Hellenotamiae are officers that serve the role of handling withdrawals/deposits under the value of 2.5K flux at all times when possible. They are required to maintain a minimum of 5K locked flux value in their balance at all times to insure against any attempts at scamming.
 - v. Georgoi are economically focused/interested members of the clan who are also junior members of the distribution structure who are trained on how to operate key distribution systems. They can borrow farmers and/or mission ships from the distribution fleet for the purpose of filling them and then being logged, they will repair any major damage incurred to the ships they have borrowed. Standard leasing balance freeze rules apply except for if the individual is the original donor of the ship to the distribution fleet.
 ## d. Communication Department Ranks
-- i. Archons are the communication secretaries. They are responsible for administering and delivering votes and elections (which include communicating that one is happening, collecting every vote, and distributing results), as well do other functions that officers of this department have. In their absence, any citizen can do it.
+- i. Archons are the communication secretaries. They are responsible for administering and delivering votes and elections (which include communicating that one is happening, collecting every vote, and distributing results), as well do other functions that officers of this department have. In their absence, any citizen can do it. And they have the individual power to demote/promote officers of this department.
 - ii. Epistates are the ministers of communication and can do the archon's job on their behalf.
 - iii. The advertisement officers are responsible to make propaganda about HL, which may include statitcs of clan, make/edit videos, memes, newspapers and others means.
 - iv. The information officers are responsible to help members about with information about the clan, the game, etc; Members may ask them relevant questions.
 ## e. Internal Affairs Department Ranks
-- i. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan, if they are not apprentices of a dept. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary.
+- i. Demarchos are the secretaries of internal affairs and have the power to accept applicants into the clan as recruits, and the power to remove recruits from the clan, if they are not apprentices of a dept. With agreement of both secretaries a recruit can be promoted to citizen, or a citizen be demoted to recruit if the citizen is not an officer, senator, ministry and/or secretary. And they have the individual power to demote/promote officers of this department.
 - ii. Politarchs are the ministers of this department, having the power of a singular demarchos. They also must assist with promotions and demotions on other departments.
 - iii. Management officers are responsible for inviting new members for the clan, as well to make reports to comitee on who should receive promotions and demotions.
-## d. Judiciary Department Ranks
+## f. Judiciary Department Ranks
 - i.  Kritai are the secretaries of this department and the members of the the magisterial court. They must conduct judgements, and advocate on cases done on High Court. And have the individual power to promote/demote attorneys.
 - ii. Dikegoroi are the ministers of this department. They can also assist on conduction of judgements, and they must advocate on cases done on Senatorial Court.
 - iii. Attorneys are officers for this department, they must advocate on cases done in Magisterial court.
