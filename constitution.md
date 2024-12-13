@@ -12,7 +12,7 @@ temp
 - ix. Purposely and illegally restricting the constitutional rights of any HL member.
 - x. Breaching any applicable agreement or law.
 ## b. Courts
-- i. Offenses may only be tried if one of the parties involved in the offense was at the time or presently is a member of the Hellenic League.
+- i. Offenses may only be tried if one of the parties involved in the offense was at the time or presently is a member of the Hellenic League or a Hellene.
 - ii. The role of the judge panel is to moderate a ticket/case and keep it on track. Judges also clarify constitutional questions.
 - iii. The judge panel of all courts consists of the magistrates.
 - iv. Who is member of a case's Judge Panel is subjected to dynamic change on roles, such elections, appointments, etc.
